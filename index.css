@@ -90,3 +90,6 @@ img.birthday {
   opacity: 1;
   transform: scale(1);
 }
+.smaller {
+  font-size: 1.2em;
+}
